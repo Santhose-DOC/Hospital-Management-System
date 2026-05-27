@@ -40,10 +40,11 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1268" height="1240" alt="ChatGPT Image May 27, 2026, 09_03_17 AM" src="https://github.com/user-attachments/assets/ac638720-30a5-467b-86c4-94a6efc003c6" />
 
 
 
-<img width="1116" height="1091" alt="Screenshot 2026-05-16 105840" src="https://github.com/user-attachments/assets/54b6ee78-0a37-4fa8-b7ad-24283e08946d" />
+
 
 
 
